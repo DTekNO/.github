@@ -50,9 +50,13 @@ Norway Seaforecast provides oceanographic data from the Norwegian Institute for 
 
 ## 🎴 Lovelace Cards
 
-### [Meteogram Card](https://github.com/Yop-La/lovelace-meteogram-card)
+### [Meteogram Card](https://github.com/DTekNO/lovelace-meteogram-card)
+[![Stars](https://img.shields.io/github/stars/DTekNO/lovelace-meteogram-card?style=flat-square)](https://github.com/DTekNO/lovelace-meteogram-card)
+[![Issues](https://img.shields.io/github/issues/DTekNO/lovelace-meteogram-card?style=flat-square)](https://github.com/DTekNO/lovelace-meteogram-card/issues)
 
 A beautiful and comprehensive weather card for Home Assistant that displays detailed meteorological data including temperature, precipitation, wind, and atmospheric pressure in an interactive chart format.
+
+---
 
 ## 🌟 Our Focus
 
