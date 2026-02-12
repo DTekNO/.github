@@ -45,6 +45,7 @@ A custom component for Home Assistant that displays geohazard alerts from NVE (N
 Norway Seaforecast provides oceanographic data from the Norwegian Institute for Marine Research (Havforskningsinstituttet). Get sensors for temperature, salinity, currents, wave height, and more at specified locations along the Norwegian coast.
 
 **Topics:** `havvarsel` `home-assistant` `homeassistant-custom-component` `homeassistant-integration`
+
 ---
 
 ## 🌟 Our Focus
