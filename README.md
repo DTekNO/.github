@@ -50,8 +50,16 @@ We are committed to providing a welcoming and inclusive environment. All partici
 
 ## 📊 Organization Stats
 
-![GitHub Organization Stars](https://img.shields.io/github/stars/DTekNO?style=social)
-![GitHub Organization Followers](https://img.shields.io/github/followers/DTekNO?style=social)
+![GitHub Organization Profile](https://img.shields.io/badge/GitHub-DTekNO-181717?style=for-the-badge&logo=github)
+
+<!--
+You can add custom badges here to showcase:
+- Number of public repositories
+- Active projects
+- Team size
+- Recent activity
+Example: ![Repositories](https://img.shields.io/badge/repositories-X-blue)
+-->
 
 ## 🌟 Support Us
 
