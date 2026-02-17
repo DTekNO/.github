@@ -11,8 +11,7 @@ DTekNO is a Norway-based organization dedicated to creating quality Home Assista
 ### [MSPA Home Assistant](https://github.com/DTekNO/mspa-homeassistant)
 [![Stars](https://img.shields.io/github/stars/DTekNO/mspa-homeassistant?style=flat-square)](https://github.com/DTekNO/mspa-homeassistant)
 [![Issues](https://img.shields.io/github/issues/DTekNO/mspa-homeassistant?style=flat-square)](https://github.com/DTekNO/mspa-homeassistant/issues)
-[![Downloads](https://img.shields.io/github/downloads/DTekNO/mspa-homeassistant/total?style=flat-square)](https://github.com/DTekNO/mspa-homeassistant)
-
+[![Downloads](https://img.shields.io/github/downloads/DTekNO/mspa-homeassistant/total?style=flat-square)](https://github.com/DTekNO/mspa-homeassistant/releases)
 
 Home Assistant integration for the MSPA range of spa baths. Control and monitor your spa directly from Home Assistant.
 
@@ -23,6 +22,7 @@ Home Assistant integration for the MSPA range of spa baths. Control and monitor 
 ### [Entur SX - Norwegian Transport Alerts](https://github.com/DTekNO/ha-entur_sx)
 [![Stars](https://img.shields.io/github/stars/DTekNO/ha-entur_sx?style=flat-square)](https://github.com/DTekNO/ha-entur_sx)
 [![Issues](https://img.shields.io/github/issues/DTekNO/ha-entur_sx?style=flat-square)](https://github.com/DTekNO/ha-entur_sx/issues)
+[![Downloads](https://img.shields.io/github/downloads/DTekNO/ha-entur_sx/total?style=flat-square)](https://github.com/DTekNO/ha-entur_sx/releases)
 
 Stay ahead of transport delays and disruptions across Norway! This integration monitors real-time service deviations from Entur.no, alerting you to delays, cancellations, and route changes on your regular transit lines.
 
@@ -33,6 +33,7 @@ Stay ahead of transport delays and disruptions across Norway! This integration m
 ### [Norway Alerts](https://github.com/DTekNO/norway_alerts)
 [![Stars](https://img.shields.io/github/stars/DTekNO/norway_alerts?style=flat-square)](https://github.com/DTekNO/norway_alerts)
 [![Issues](https://img.shields.io/github/issues/DTekNO/norway_alerts?style=flat-square)](https://github.com/DTekNO/norway_alerts/issues)
+[![Downloads](https://img.shields.io/github/downloads/DTekNO/norway_alerts/total?style=flat-square)](https://github.com/DTekNO/norway_alerts/releases)
 
 A custom component for Home Assistant that displays geohazard alerts from NVE (Norwegian Water Resources and Energy Directorate) and met.no. Stay informed about avalanches, floods, landslides, and other natural hazards.
 
@@ -43,6 +44,7 @@ A custom component for Home Assistant that displays geohazard alerts from NVE (N
 ### [Norway Seaforecast](https://github.com/DTekNO/norway_seaforecast)
 [![Stars](https://img.shields.io/github/stars/DTekNO/norway_seaforecast?style=flat-square)](https://github.com/DTekNO/norway_seaforecast)
 [![Issues](https://img.shields.io/github/issues/DTekNO/norway_seaforecast?style=flat-square)](https://github.com/DTekNO/norway_seaforecast/issues)
+[![Downloads](https://img.shields.io/github/downloads/DTekNO/norway_seaforecast/total?style=flat-square)](https://github.com/DTekNO/norway_seaforecast/releases)
 
 Norway Seaforecast provides oceanographic data from the Norwegian Institute for Marine Research (Havforskningsinstituttet). Get sensors for temperature, salinity, currents, wave height, and more at specified locations along the Norwegian coast.
 
@@ -55,6 +57,7 @@ Norway Seaforecast provides oceanographic data from the Norwegian Institute for 
 ### [Meteogram Card](https://github.com/DTekNO/lovelace-meteogram-card)
 [![Stars](https://img.shields.io/github/stars/DTekNO/lovelace-meteogram-card?style=flat-square)](https://github.com/DTekNO/lovelace-meteogram-card)
 [![Issues](https://img.shields.io/github/issues/DTekNO/lovelace-meteogram-card?style=flat-square)](https://github.com/DTekNO/lovelace-meteogram-card/issues)
+[![Downloads](https://img.shields.io/github/downloads/DTekNO/lovelace-meteogram-card/total?style=flat-square)](https://github.com/DTekNO/lovelace-meteogram-card/releases)
 
 A beautiful and comprehensive weather card for Home Assistant that displays detailed meteorological data including temperature, precipitation, wind, and atmospheric pressure in an interactive chart format.
 
