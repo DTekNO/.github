@@ -11,6 +11,8 @@ DTekNO is a Norway-based organization dedicated to creating quality Home Assista
 ### [MSPA Home Assistant](https://github.com/DTekNO/mspa-homeassistant)
 [![Stars](https://img.shields.io/github/stars/DTekNO/mspa-homeassistant?style=flat-square)](https://github.com/DTekNO/mspa-homeassistant)
 [![Issues](https://img.shields.io/github/issues/DTekNO/mspa-homeassistant?style=flat-square)](https://github.com/DTekNO/mspa-homeassistant/issues)
+[![Downloads](https://img.shields.io/github/downloads/DTekNO/mspa-homeassistant/total?style=flat-square)](https://github.com/DTekNO/mspa-homeassistant)
+
 
 Home Assistant integration for the MSPA range of spa baths. Control and monitor your spa directly from Home Assistant.
 
